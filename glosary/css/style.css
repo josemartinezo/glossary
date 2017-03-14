@@ -1,0 +1,32 @@
+body{
+	background-color: #0B173B;
+}
+article {
+    color: red;
+}
+
+h3, p{
+    color: black;
+    font-size: 20px;
+
+}
+.lista article{
+    display:inline-block;
+    width: 20%;
+    border: 3px solid #084B8A;
+    text-align: center;
+    font-size: 1.2em;
+    background-color: #070B19;
+    list-style: none;
+}
+h1,h2{
+    text-align: center;
+    font-family: arial;
+}
+     
+section{
+    text-align: center;
+}   
+
+
+
